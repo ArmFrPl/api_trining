@@ -1,1 +1,1 @@
-export const apiUrl = 'https://swapi.co/api';
+export const apiUrl = 'https://swapi-graphql.netlify.com/.netlify/functions/index';
